@@ -1,0 +1,11 @@
+C:\project\BitfinexConnector\bin\Debug\net6.0\BitfinexConnector.deps.json
+C:\project\BitfinexConnector\bin\Debug\net6.0\BitfinexConnector.dll
+C:\project\BitfinexConnector\bin\Debug\net6.0\BitfinexConnector.pdb
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.AssemblyInfoInputs.cache
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.AssemblyInfo.cs
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.csproj.CoreCompileInputs.cache
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.dll
+C:\project\BitfinexConnector\obj\Debug\net6.0\refint\BitfinexConnector.dll
+C:\project\BitfinexConnector\obj\Debug\net6.0\BitfinexConnector.pdb
+C:\project\BitfinexConnector\obj\Debug\net6.0\ref\BitfinexConnector.dll
